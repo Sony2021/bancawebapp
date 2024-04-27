@@ -137,3 +137,5 @@ C:\Users\Sony\Desktop\codigoVS\bancawebapp\obj\Debug\net8.0\refint\bancawebapp.d
 C:\Users\Sony\Desktop\codigoVS\bancawebapp\obj\Debug\net8.0\bancawebapp.pdb
 C:\Users\Sony\Desktop\codigoVS\bancawebapp\obj\Debug\net8.0\bancawebapp.genruntimeconfig.cache
 C:\Users\Sony\Desktop\codigoVS\bancawebapp\obj\Debug\net8.0\ref\bancawebapp.dll
+C:\Users\Sony\Desktop\codigoVS\bancawebapp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Sony\Desktop\codigoVS\bancawebapp\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
